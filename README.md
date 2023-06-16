@@ -4,4 +4,5 @@ The diagnosis of ASD is typically performed using observation of behaviour as we
 Machine learning and deep learning approaches offer great potential for improving the detection and diagnosis of autism spectrum disorder.
 In this project the algorithms like CNN, ANN and SVM are used to determine the presence of ASD at an early stage.
 
+Dataset link: http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html
 
